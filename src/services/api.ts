@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-//base axios instance call
+//base axios instance cal
 const api = axios.create({
     baseURL: 'https://api.github.com/'
 })
