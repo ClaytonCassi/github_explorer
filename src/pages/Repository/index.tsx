@@ -24,7 +24,7 @@ interface Repository {
 
 }
 
-//create 
+//create interface
 interface Issue {
     id: string;
     title: string;
