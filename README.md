@@ -1,10 +1,10 @@
 <h1>GitHub Explorer</h1>
 <p>Este é um projeto desenvolvido com ReactJS que permite aos usuários explorarem repositórios do GitHub. Com ele, é possível ver informações detalhadas sobre um repositório, como número de estrelas, forks e issues abertas, além de poder visualizar a lista de issues e seus detalhes.</p>
-<<<<<<< HEAD
-<img src="src/assets/github-explorer.jpg" alt="github" width="500" height="600">
-=======
-<img src="src/assets/github-explorer.jpg" alt="github" width="1000" height="600">
->>>>>>> 49360b75a3370d9a61516bbb24673e63a5122161
+
+<img src="src/assets/github-explorer.jpg" alt="github" width="100" height="600">
+
+
+
 <h2>Recursos</h2>
 <ul>
   <li>Busca de repositórios do GitHub</li>
@@ -14,6 +14,9 @@
 
 <img src="src/assets/github-explorer-result.jpg" alt="github" width="500" height="600">
 <h2>Como usar</h2>
+
+<img src="src/assets/github-explorer-result.jpg" alt="github" width="1000" height="600">
+
 <p>Para utilizar este projeto, você precisará seguir os seguintes passos:</p>
 <ol>
   <li>Clone este repositório com o comando <code>git clone https://github.com/ClaytonCassi/github_explorer.git</code></li>
