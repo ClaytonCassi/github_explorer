@@ -1,12 +1,14 @@
 <h1>GitHub Explorer</h1>
 <p>Este é um projeto desenvolvido com ReactJS que permite aos usuários explorarem repositórios do GitHub. Com ele, é possível ver informações detalhadas sobre um repositório, como número de estrelas, forks e issues abertas, além de poder visualizar a lista de issues e seus detalhes.</p>
-<img src="./assets/github-explorer.jpg" alt="github" width="500" height="600">
+<img src="src/assets/github-explorer.jpg" alt="github" width="500" height="600">
 <h2>Recursos</h2>
 <ul>
   <li>Busca de repositórios do GitHub</li>
   <li>Visualização de informações detalhadas sobre um repositório, incluindo estrelas, forks e issues abertas</li>
   <li>Listagem de issues e seus detalhes</li>
 </ul>
+
+<img src="src/assets/github-explorer-result.jpg" alt="github" width="500" height="600">
 <h2>Como usar</h2>
 <p>Para utilizar este projeto, você precisará seguir os seguintes passos:</p>
 <ol>
