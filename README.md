@@ -12,7 +12,7 @@
   <li>Listagem de issues e seus detalhes</li>
 </ul>
 
-<img src="src/assets/github-explorer-result.jpg" alt="github" width="500" height="600">
+<img src="src/assets/github-explorer-result.jpg" alt="github" width="1000" height="600">
 </br>
 <h2>Como usar</h2>
 
